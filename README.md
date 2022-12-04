@@ -1,7 +1,7 @@
 ### Olá! Eu sou Arthur Mello Pimentel
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando front-end e back-end
+- 🌱 Estudando front-end, back-end, unity e c#
 - 💬 Contate-me no email: Arthurmellopimentel76@gmail.com
 - 😄 Pronouns: ele/dele
 -->
@@ -18,6 +18,7 @@
   <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png">
  
  
 </div>
